@@ -1,0 +1,7 @@
+# This file contains dependencies that will be installed by the Dependency Installer module of the Hello World Application.
+
+# I forget what wheel is used for but it is needed
+wheel
+
+# The simplejson library is used to parse JSON files.
+simplejson
